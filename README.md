@@ -42,6 +42,21 @@ Create a Rogue-Like Cultivation game on Roblox.
 **Dexterity** (ATK speed/turn order)  
 **Charisma** (Dialogue Charm)  
 **Luck** (Crit rate, Random success, Occurances)  
+
+### RACES
+
+### COMBAT STYLES
+
+### MAGIC AFFINITY
+- Neutral (Low ceiling)
+- Fire (Burn, STR CHI increase)
+- Earth (Stun, END VIT increase)
+- Water (Heal/Damage, VIT CHI increase)
+- Wind (Bleed, DEX STR increase)
+- Lightning (Shock, STR CHI increase )
+- Yin (Debuff)
+- Yang (Buff)
+
 ## **Collaborators**:
 
 - [xensan-dev](https://github.com/xensan-dev)
