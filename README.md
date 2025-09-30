@@ -49,11 +49,11 @@ Create a Rogue-Like Cultivation game on Roblox.
 
 ### MAGIC AFFINITY
 - Neutral (Low ceiling)
-- Fire (Burn, STR CHI increase)
+- Fire (Burn, END STR increase)
 - Earth (Stun, END VIT increase)
 - Water (Heal/Damage, VIT CHI increase)
 - Wind (Bleed, DEX STR increase)
-- Lightning (Shock, STR CHI increase )
+- Lightning (Shock, CHI DEX increase)
 - Yin (Debuff)
 - Yang (Buff)
 
