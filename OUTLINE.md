@@ -1,32 +1,28 @@
 # MECHANICS
 
 ## BASE STATS (Growth)
-- Health
-- Mana
-- Magic Resist
-- Defense
-- Speed
-- Strength
+- Vitality
+- Endurance
 - Chi
-- Luck
+- Strength
+- Dexterity
 - Charisma
-- Stamina
+- Luck
 
 ## BONUS STATS (Rolled at start)
-Health
-Mana
-Magic Resist
-Defense
-Speed
-Strength
-Chi
-Charisma
-Luck
+- Vitality
+- Endurance
+- Chi
+- Strength
+- Dexterity
+- Charisma
+- Luck
 
 ## STAT EFFECTS
-
-- Health
-Max HP
-HP regen
-
-- Mana
+**Vitality** (max HP, Health regen)  
+**Endurance** (Stamina, ATK resist, MGC resist)  
+**Chi** (Max mana, Mana regen, MGC)  
+**Strength** (ATK)  
+**Dexterity** (ATK speed/turn order)  
+**Charisma** (Dialogue Charm)  
+**Luck** (Crit rate, Random success, Occurances)  
