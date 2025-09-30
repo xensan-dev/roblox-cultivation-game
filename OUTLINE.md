@@ -1,6 +1,18 @@
-MECHANICS
+# MECHANICS
 
-- BASE STATS (Growth)
+## BASE STATS (Growth)
+- Health
+- Mana
+- Magic Resist
+- Defense
+- Speed
+- Strength
+- Chi
+- Luck
+- Charisma
+- Stamina
+
+## BONUS STATS (Rolled at start)
 Health
 Mana
 Magic Resist
@@ -8,22 +20,10 @@ Defense
 Speed
 Strength
 Chi
-Luck
-Charisma
-Stamina
-
-- BONUS STATS (Rolled at start)
-Health
-Mana
-Magic Resist
-Defense
-Speed
-Strength
-Chi
 Charisma
 Luck
 
-STAT EFFECTS
+## STAT EFFECTS
 
 - Health
 Max HP
